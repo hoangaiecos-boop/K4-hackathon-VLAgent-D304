@@ -132,3 +132,4 @@ Loại: [ ] Tối ưu tính năng có sẵn  [x] Tính năng mới
 |---|---|---|
 | 31/07/2026 | Chuyển LLM từ `gpt-4o-mini` sang `gemini-2.5-flash` | Quota OpenAI hết (429 Insufficient Quota), Gemini 1.5 bị 404 Not Found → test lại thấy `gemini-2.5-flash` hoạt động |
 | 31/07/2026 | Tạo spec.md v1 | Checkpoint đầu tiên — phủ 8 phần theo template `03-template-ai-spec.md` |
+| 03/08/2026 | Ghi nhận 4 bản trùng/mâu thuẫn của bài `day03` trong vault pack, xem [`eval/data-quality-notes.md`](eval/data-quality-notes.md) | Phát hiện khi xử lý dữ liệu — rủi ro trích nguồn không nhất quán nếu bật pack song song course chính (kịch bản lỗi lớp 4, spec §5) |
